@@ -1,0 +1,33 @@
+itemGroup.Baublelicious=Baublelicious
+
+#ITEMS
+item.ItemRing.name=Кольцо
+item.ItemBelt.name=Пояс
+item.ItemAmulet.name=Амулет
+item.baublelicious:bindingGem.name=Связывающий самоцвет
+
+# ยง3 - Colour code for dark aqua
+item.baublelicious:entangledAmulet.name=ยง3Запутанный амулет
+item.baublelicious:entangledRing.name=ยง3Запутанное кольцо
+item.baublelicious:entangledBelt.name=ยง3Запутанный пояс
+
+item.ItemBeltWaterWalking.name=Пояс ходьбы по воде
+item.ItemDivingAmulet.name=Амулет дайвинга
+item.ItemRingOfFlight.name=Кольцо полёта
+item.ItemStrengthRing.name=Кольцо силы
+item.ItemSpeedBelt.name=Кольцо стремительности
+item.baublelicious:ItemMagnetRing.0.name=Магнитное кольцо
+item.ItemFallingBelt.name=Пояс падения
+item.ItemGrowthPendant.name=Кулон роста
+item.ItemMagicCore.tier1.name=Магическое ядро
+item.ItemMagicCore.tier2.name=Магическое ядро
+item.ItemMagicCore.tier3.name=Магическое ядро
+item.ItemAmuletNightvision.name=Амулет ночного видения
+item.ItemAmuletFieryCore.name=Амулет огненного ядра
+
+
+#BLOCKS
+tile.BlockPedestal.name=Пьедестал
+
+#CONFIG
+baublelicous.config.magnetSoundChance=Шанс звука магнита
